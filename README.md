@@ -1,6 +1,6 @@
 # 🙏️ Hi, I'm Kamlesh Mehra!
-    👨‍💼️  A passionate Software Engineer from India
-    📫  Connect with me **kamleshmehra3571@gmail.com**
+👨‍💼️  A passionate Software Engineer from India
+📫  Connect with me **kamleshmehra3571@gmail.com**
 
 
 # 💻 Tech Stack:
